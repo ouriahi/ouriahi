@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ouriahi
 - 👀 I’m interested in computer vision 
 - 🌱 I’m currently learning embedded systems
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on image processing projects 
 - 📫 How to reach me riahi_oussema@outlook.fr
 - 😄 Pronouns: :)
 - ⚡ Fun fact: i dont have X)
